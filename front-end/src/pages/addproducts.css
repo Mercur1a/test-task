@@ -1,0 +1,13 @@
+.main_input {
+  display: flex;
+  flex-direction: column;
+}
+
+.input_block {
+  margin: 5px;
+  padding: 5px 5px 15px 5px;
+}
+
+.validation_error {
+  color: red;
+}
